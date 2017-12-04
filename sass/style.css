@@ -38,8 +38,9 @@ main .text {
     float: left;
     padding: 0 35px; }
 
+
 footer {
-  text-align: center;
+  text-align: right;
   background-color: #4c3e39;
   margin-top: 20px; }
   footer div {
